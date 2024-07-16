@@ -19,16 +19,9 @@ I'm a passionate back-end programmer, I always searching to be proactive and cap
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🔭 I’m currently working on [Tecno Accion S.A](https://www.linkedin.com/company/tecno-accion/mycompany/)  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 

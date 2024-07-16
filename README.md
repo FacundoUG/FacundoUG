@@ -18,7 +18,7 @@ I'm a passionate back-end programmer, I always searching to be proactive and cap
 <br/>  
 
 
-## Rapidfire  
+## Information  
 <table><tr><td valign="top" width="100%">
 
 - 🔭 I’m currently working on [Tecno Accion S.A](https://www.linkedin.com/company/tecno-accion/mycompany/)  
@@ -60,18 +60,3 @@ I'm a passionate back-end programmer, I always searching to be proactive and cap
 
 </td></tr></table>  
 
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

@@ -9,21 +9,16 @@
 </a>  
   
 
-
-
 ### About me  
 I'm a passionate back-end programmer, I always searching to be proactive and capable of finding the best solutions. I'm a Superior Technician in computing and study engineering in Information Systems  
-  
-
-<br/>  
 
 
 ## Information  
 <table><tr><td valign="top" width="100%">
 
-- 🔭 I’m currently working on [Tecno Accion S.A](https://www.linkedin.com/company/tecno-accion/mycompany/)  
+<br/> 
 
-<br/>  
+- 🔭 I’m currently working on [Tecno Accion S.A](https://www.linkedin.com/company/tecno-accion/mycompany/)  
 
 
 ## Languages and Tools  

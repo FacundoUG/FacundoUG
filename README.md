@@ -14,7 +14,6 @@ I'm a passionate back-end programmer, I always searching to be proactive and cap
 
 
 ## Information  
-<table><tr><td valign="top" width="100%">
 
 <br/> 
 
@@ -46,8 +45,8 @@ I'm a passionate back-end programmer, I always searching to be proactive and cap
 
 ## Github Stats  
 
-<img src="https://github-readme-stats.vercel.app/api?username=FacundoUG&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacundoUG&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=FacundoUG&show_icons=true&count_private=true&hide_border=true" style="width: 45%; margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacundoUG&hide_border=true&layout=compact" style="width: 45%;" />
+</div>
 

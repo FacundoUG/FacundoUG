@@ -10,7 +10,7 @@
   
 
 ### About me  
-I'm a passionate back-end programmer, I always searching to be proactive and capable of finding the best solutions. I'm a Superior Technician in computing and study engineering in Information Systems  
+I'm a developer specializing in back-end technologies, while my primary focus is in back-end development, I also posses a basic to intermediate front-end skills allows me colaborate effectively across full stack, my goal is to add significant value to the apps by actively contributing in the planning, develop and the succesful deploy. I thrive make a funcional workflow for the tasks i'm in working, addressing technical challenges to deliver high-quality solutions. 
 
 
 ## Information  

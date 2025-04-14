@@ -17,7 +17,7 @@ I'm a developer specializing in back-end technologies, while my primary focus is
 
 <br/> 
 
-- 🔭 I’m currently working on [HOKALi](https://www.linkedin.com/company/hokali/posts/?feedView=all)
+- 🔭 I’m currently working on [HOKALI](https://www.linkedin.com/company/hokali/posts/?feedView=all)
 
 
 ## Languages and Tools  

@@ -42,7 +42,7 @@ I'm a developer specializing in back-end technologies, while my primary focus is
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px; background-color: white; border-radius: 5px;" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express" height="50" /></a>
 <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>
-<a href="https://typeorm.io/" target="_blank"><img style="margin: 10px" src="https://typeorm.io/logo.svg" alt="TypeORM" height="50" /></a>
+<a href="https://typeorm.io/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/vector-logo/443592/typeorm" alt="TypeORM" height="50" /></a>
 </div>  
 
 <br/>  
